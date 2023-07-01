@@ -7,3 +7,5 @@
 4. Python Operators
 5. Python Function
 6. Python Lambda Function
+7. Exception Handling
+8. File I/O
